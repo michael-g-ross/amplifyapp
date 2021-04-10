@@ -1,13 +1,5 @@
 {
   "features": {
-    "graphqltransformer": {
-      "addmissingownerfields": false,
-      "validatetypenamereservedwords": false,
-      "useexperimentalpipelinedtransformer": false,
-      "enableiterativegsiupdates": false,
-      "secondarykeyasgsi": false,
-      "skipoverridemutationinputtypes": false
-    },
     "frontend-ios": {
       "enablexcodeintegration": true
     },
